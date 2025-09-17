@@ -5,6 +5,14 @@
   text-align: center;
 }
 
+h1 {
+  color: #ccc;
+}
+
+body {
+  background-color: rgb(36, 35, 35);
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -39,4 +47,9 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.weatherClass {
+  display: flex;
+  flex-direction: row;
 }
